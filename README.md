@@ -27,6 +27,7 @@ cd group_sort
 
 # Test 
 cargo test 
+cargo test -- --nocapture #Check output
 # Bench
 cargo bench
 ```
