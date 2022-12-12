@@ -1,6 +1,6 @@
 ## Group sort 
 
-This is a sorting algorithm for random, sequential (0..X) data with no missing values. If data is maximum unsorted, group_sort performs ~15x faster than default implemented sorting logarithm (quick sort). 
+This is a sorting algorithm for random, sequential (0..X) data with no missing values. If data is maximum unsorted, group_sort performs 2x faster than default implemented sorting logarithm (quick sort). 
 
 - **THIS IS NOT INPLACE SORTING**
 - **Should be O(n) time and space** 
